@@ -1,0 +1,14 @@
+C:\Users\ARY\Documents\Project\Test\Console\TestAkasia\obj\Debug\net7.0\TestAkasia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARY\Documents\Project\Test\Console\TestAkasia\obj\Debug\net7.0\TestAkasia.AssemblyInfoInputs.cache
+C:\Users\ARY\Documents\Project\Test\Console\TestAkasia\obj\Debug\net7.0\TestAkasia.AssemblyInfo.cs
+C:\Users\ARY\Documents\Project\Test\Console\TestAkasia\obj\Debug\net7.0\TestAkasia.csproj.CoreCompileInputs.cache
+C:\Users\ARY\Documents\Project\Test\Console\TestAkasia\bin\Debug\net7.0\TestAkasia.exe
+C:\Users\ARY\Documents\Project\Test\Console\TestAkasia\bin\Debug\net7.0\TestAkasia.deps.json
+C:\Users\ARY\Documents\Project\Test\Console\TestAkasia\bin\Debug\net7.0\TestAkasia.runtimeconfig.json
+C:\Users\ARY\Documents\Project\Test\Console\TestAkasia\bin\Debug\net7.0\TestAkasia.dll
+C:\Users\ARY\Documents\Project\Test\Console\TestAkasia\bin\Debug\net7.0\TestAkasia.pdb
+C:\Users\ARY\Documents\Project\Test\Console\TestAkasia\obj\Debug\net7.0\TestAkasia.dll
+C:\Users\ARY\Documents\Project\Test\Console\TestAkasia\obj\Debug\net7.0\refint\TestAkasia.dll
+C:\Users\ARY\Documents\Project\Test\Console\TestAkasia\obj\Debug\net7.0\TestAkasia.pdb
+C:\Users\ARY\Documents\Project\Test\Console\TestAkasia\obj\Debug\net7.0\TestAkasia.genruntimeconfig.cache
+C:\Users\ARY\Documents\Project\Test\Console\TestAkasia\obj\Debug\net7.0\ref\TestAkasia.dll
